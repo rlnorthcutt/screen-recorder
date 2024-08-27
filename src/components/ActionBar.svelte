@@ -82,5 +82,5 @@
     </button>
   </div>
 
-  <RecordingOptionsBar />
+
 </div>
